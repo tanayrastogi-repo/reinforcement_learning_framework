@@ -1,0 +1,1 @@
+{"learning": {"epsilon": 0.9, "epsilon_decay": 0.8, "learning_rate": 0.85, "discount": 0.7}, "simulation": {"user_setpoint_temp": 21, "simulation_timestep": 1, "tot_episode": 1, "print_episode": 1, "simulation_days": 1}}
